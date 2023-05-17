@@ -1,7 +1,7 @@
 ### Hi there 👋 İ'm Mehmet Akif.
 
 
-- :zap: I love programming, gaming.
+- :zap: I love programming.
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
