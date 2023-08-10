@@ -65,7 +65,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifKA&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 </p>
 
+<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<h2 align="center">My Projects</h2>
 
+<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<h2 align="center">React Projects</h2>
+
+###
+
+Project Demo       |Libraries and Technologies I use  |Project Preview   
+:-------------------------|---------------------|------------------
+[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
+
+<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<h2 align="center">Vanila CS Projects</h2>
+
+###
+
+Project Demo       |Libraries and Technologies I use  |Project Preview   
+:-------------------------|---------------------|------------------
+[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
 
 
   
