@@ -1,3 +1,9 @@
+# 💫 About Me:
+Hi, I'm M. Akif.<br>I'm a frontend developer from Turkey.<br>I'm developing frontend apps using HTML, CSS, Javascript, React, Redux, Bootstrap, Tailwind, MUI etc., but I'm always adding new skills to my repertoire and planning to learn about backend development as soon as possible.
+
+
+
+
 <div align="center">
 
 ### Hi there 👋 İ'm Mehmet Akif. 
@@ -21,7 +27,8 @@
 </p>
 <br> <br>
 <br>
- # 💻 Tech Stack: 
+
+ # 💻 Tech Stack:
 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -65,28 +72,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifKA&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 </p>
 
-<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-<h2 align="center">My Projects</h2>
 
-<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-<h2 align="center">React Projects</h2>
 
 ###
 
-Project Demo       |Libraries and Technologies I use  |Project Preview   
+Project Links       |What I use  |Project Overview   
 :-------------------------|---------------------|------------------
-[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
-
-<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-<h2 align="center">Vanila CS Projects</h2>
-
-###
-
-Project Demo       |Libraries and Technologies I use  |Project Preview   
-:-------------------------|---------------------|------------------
-[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
-
-
-  
+[Stock App Live](mak-stock-app.netlify.app) <h4>[Repo](https://github.com/AkifKA/react-stock-app)</h4>| React - MUI - Tailwind - Redux Toolkit - Redux Persist - Custom Hook - Router - Formik - Yup - Toastify |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p6N2p2anZlNjE0Z3J5bWdsaG80eHY0YmNzOXVpcmNsbzBoZ2puZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x8pZi2LRPNmpN6ZxQp/giphy.gif" align="right" width="700">
+[Recipe App](https://recipe-app-bay-six.vercel.app/) <h3>[Repo](https://github.com/HKavci/recipe-app)</h3> | React - Context API - Firebase -  Router - Toastify - Bootstrap |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2MGZjZTgzMWJkMTg0OGM0YjI0Yzg0MjkwYzRmYjlhMTU0MGRmNyZjdD1n/hiiqznFgXA84EQrIwt/giphy.gif" align="right" width="500">
+[GitHub Users App](https://github-users-app-hkavci.vercel.app/) <h3>[Repo](https://github.com/HKavci/Github-Users-App)</h3> | React - Axios - Promise All - Router - Material UI - Dark Mode |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBhYjQ5NjJjZmYxYjJlMzY5ZGY2NGQwMWE1NTNhNTM3NDU2ZWE0MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l5wOX39nwjjQ5mRnIk/giphy.gif" align="right" width="500">
+[WebSite Routing App](https://website-routing-app.vercel.app/) <h3>[Repo](https://github.com/HKavci/website-routing-app)</h3> | React - Router - Bootstrap - |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZkM2VkMjYzODNiZGIwYzFmYjAxNTc5OWEzMTNlYWQ3OTA5YmE1YSZjdD1n/dmFPa8HWMrnqoeGmHe/giphy.gif" align="right" width="500">
+[Checkout Page App](https://main--demo-checkout-app.netlify.app/) <h3>[Repo](https://github.com/HKavci/checkout-page-app)</h3> | Bootstrap - React - MockApi |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdhZDdmNzM4YWM5MzVkMmUxMzk5NGViNmMwOTQ1NDgyYjY2ODJjNCZjdD1n/5zunrO5nh2EWyF0iHr/giphy.gif" align="right" width="500">
+[Task Tracker App](https://github.com/HKavci/cc3-task-tracker) <h3>[Repo](https://github.com/HKavci/checkout-page-app)</h3> | React - Axios - MockApi |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY5MjVjZTY5N2EyMzFmYzQ1M2UxOWJmNWJiMzJhYzljYmFjNTEzZCZjdD1n/EMhUxnMYQ4XMDwNLPj/giphy.gif" align="right" width="500">
+[Weather App](https://hkavci.github.io/Weather_App/) <h3>[Repo](https://github.com/HKavci/Weather_App)</h3> | HTML - CSS - JavaScript |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFiYjEzNTQ2YjRmYjc5YmMwZjIzZTc0MDRmMDU3YzcwY2M4ZDE0MyZjdD1n/HO9nUBBM0BitCVEkna/giphy.gif" align="right" width="500">
+</br>
   
 
