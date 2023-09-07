@@ -11,9 +11,9 @@ Hi, I'm M. Akif. I'm a frontend developer from Türkiye. Also I have backend kno
 ### 🌐 Socials:
 
 
-<a href="https://twitter.com/akifkaraoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murathoncu" height="30" width="40" /></a>
+<a href="https://twitter.com/akifkaraoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akif-ka" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akifka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akif-ka" height="30" width="40" /></a>
-<a href="https://instagram.com/akifkaraoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akifkaraoz" height="30" width="40" /></a>
+<a href="https://instagram.com/akifkaraoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akif-ka" height="30" width="40" /></a>
 
   <br>
    <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
